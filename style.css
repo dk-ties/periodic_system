@@ -1,1 +1,36 @@
+.main-div {
+  /* display: flex; */
+  height: auto;
+  width: auto;
+}
+.header-div {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+}
+.body-div {
+  display: flex;
+}
+
 /*Style the coulmn*/
+.content-div {
+  display: flex;
+  justify-content: center;
+  
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+}
+.column-1-1 {
+    width: 50px;
+  height: 50px;
+  border: 1px solid black;
+  padding: 1px;
+  text-decoration: none;
+  color: black;
+}
