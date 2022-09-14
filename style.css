@@ -56,11 +56,26 @@ h1 {
   text-align: center;
 }
 .alkali-metals {
-
+background-color: rgb(255,170,0);
 }
 .alkaline-earth-metals {
-
+background-color: rgb(247,247,0);
 }
 .transition-metals {
-
+background-color: rgb(255,119,153);
+}
+.lanthanides {
+background-color: rgb(255,170,136);
+}
+.actinides {
+background-color: rgb(221,170,204);
+}
+.other-metals {
+background-color: rgb(0,204,204);
+}
+.non-metals {
+  background-color:rgb(0,247,0);
+}
+.noble-gases{
+background-color: rgb(85,247,247);
 }
