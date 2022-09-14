@@ -34,12 +34,33 @@
   padding: 1px;
   text-decoration: none;
   color: black;
-  text-align: center;
+  text-align: left;
   
 }
 p {
   margin: 0;
+  font-size: 12px;
+  font-weight: bold;
 }
-span {
-  vertical-align: bottom;
+  .atomic-weight{
+  display: inline-block;
+  justify-content: right;
+  text-align: right;
+  font-weight: lighter;
+  margin-left: 5px;
+  text-align: right;
+
+}
+h1 {
+  margin: 0;
+  text-align: center;
+}
+.alkali-metals {
+
+}
+.alkaline-earth-metals {
+
+}
+.transition-metals {
+
 }
