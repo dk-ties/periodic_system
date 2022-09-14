@@ -35,20 +35,24 @@
   text-decoration: none;
   color: black;
   text-align: left;
+white-space: nowrap;
   
 }
 p {
   margin: 0;
   font-size: 12px;
   font-weight: bold;
+  max-height: 15px;
 }
   .atomic-weight{
+ 
   display: inline-block;
   justify-content: right;
   text-align: right;
   font-weight: lighter;
   margin-left: 5px;
   text-align: right;
+
 
 }
 h1 {
